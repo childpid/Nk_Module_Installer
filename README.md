@@ -1,4 +1,4 @@
 NK_Module_Installer
 ===================
 
-Easy install all our Nuked-Klan modules
+Easy install, update, uninstall your Nuked-Klan modules
